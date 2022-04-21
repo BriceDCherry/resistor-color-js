@@ -11,4 +11,4 @@ export const COLORS = [
   "white",
 ];
 
-export const colorCode = (color: string): number => COLORS.indexOf(color);
+export const colorCode = (color) => COLORS.indexOf(color);
