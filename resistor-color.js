@@ -1,3 +1,3 @@
-export function colorCode() {}
+export function colorCode(color) {}
 
-export const COLORS = [];
+export const COLORS = ["black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white"];
